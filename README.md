@@ -1,3 +1,5 @@
+<img width="1584" height="396" alt="Github-sales-please" src="https://github.com/user-attachments/assets/4f031495-9a63-464b-9a85-b1d25805f7cd" />
+
 # sales-please
 
 A lightweight, AI-native sales qualification framework for founders and small teams. Built on **WORTH**, a five-dimension alternative to MEDDPICC designed for people who sell but don't have a sales background.
