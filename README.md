@@ -56,7 +56,9 @@ sales-please/
 ├── skills/
 │   ├── gut-check/         # Pre-call triage (go/no-go)
 │   ├── deal-qualify/      # Post-discovery scoring and deal file creation
-│   └── deal-debrief/      # Post-meeting deal update and re-scoring
+│   ├── deal-debrief/      # Post-meeting deal update and re-scoring
+│   ├── pipeline-review/   # Weekly pipeline review and prioritization
+│   └── meeting-prep/      # Pre-meeting brief with WORTH gap analysis
 ├── deals/
 │   └── _template.md       # Deal file template
 └── config/

@@ -37,6 +37,8 @@ Skills are structured workflows in `skills/`. Each has a SKILL.md that defines w
 | `gut-check` | New prospect, pre-call triage | "should I take this call?", "someone reached out", "is this worth pursuing?" |
 | `deal-qualify` | After a discovery call, scoring a deal | "score this", "qualify this", "create a deal file", pastes meeting notes |
 | `deal-debrief` | Updating an existing deal after a follow-up | "update the deal", "just had a call with X", "debrief", "here's what happened" |
+| `pipeline-review` | Weekly review of all active deals | "how's my pipeline?", "what should I focus on?", "review my deals", "what's stale?" |
+| `meeting-prep` | Preparing for an upcoming prospect meeting | "I have a call with X", "prep me for the meeting", "meeting with X tomorrow" |
 
 When a trigger matches, read the full SKILL.md and follow it. Don't improvise the process.
 
@@ -44,14 +46,14 @@ When a trigger matches, read the full SKILL.md and follow it. Don't improvise th
 - If the user describes a prospect and no deal file exists yet, start with `gut-check`. If the gut check passes and there's enough information, offer to run `deal-qualify`.
 - If the user pastes notes and a deal file already exists, use `deal-debrief`.
 - If the user pastes notes and no deal file exists, use `deal-qualify`.
+- If the user asks about their pipeline or weekly priorities, use `pipeline-review`.
+- If the user mentions an upcoming meeting with a prospect, use `meeting-prep`.
 
 ## How to help (beyond skills)
 
 For requests that don't map to a specific skill:
 
 1. **"Should I pursue this?":** Be honest. If the deal doesn't qualify, say so and say why. Don't hedge.
-2. **Pipeline review:** Look at all deal files, rank by quality and staleness, recommend where to focus.
-3. **Meeting prep:** Read the deal file, identify WORTH gaps to close in the meeting, suggest specific questions.
 
 ## Voice
 
