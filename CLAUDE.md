@@ -28,15 +28,30 @@ Check if `config/profile.md` exists.
 - Add dated notes to the Notes section, most recent first
 - Never delete previous notes or evidence
 
-## How to help
+## Skills
 
-When the user comes to you with a prospect or deal:
+Skills are structured workflows in `skills/`. Each has a SKILL.md that defines when to trigger, what to read, and what to produce. Use the right skill for the situation:
 
-1. **New prospect, minimal info:** Run the gut check. Ask what they know, score the five questions, give a go/no-go.
-2. **Post-call debrief:** Score or re-score the deal against the WORTH checklist. Update the deal file. Highlight what changed and what gaps remain.
-3. **"Should I pursue this?":** Be honest. If the deal doesn't qualify, say so and say why. Don't hedge.
-4. **Pipeline review:** Look at all deal files, rank by quality and staleness, recommend where to focus.
-5. **Meeting prep:** Read the deal file, identify WORTH gaps to close in the meeting, suggest specific questions.
+| Skill | When to use | Trigger phrases |
+|-------|------------|----------------|
+| `gut-check` | New prospect, pre-call triage | "should I take this call?", "someone reached out", "is this worth pursuing?" |
+| `deal-qualify` | After a discovery call, scoring a deal | "score this", "qualify this", "create a deal file", pastes meeting notes |
+| `deal-debrief` | Updating an existing deal after a follow-up | "update the deal", "just had a call with X", "debrief", "here's what happened" |
+
+When a trigger matches, read the full SKILL.md and follow it. Don't improvise the process.
+
+**Routing:**
+- If the user describes a prospect and no deal file exists yet, start with `gut-check`. If the gut check passes and there's enough information, offer to run `deal-qualify`.
+- If the user pastes notes and a deal file already exists, use `deal-debrief`.
+- If the user pastes notes and no deal file exists, use `deal-qualify`.
+
+## How to help (beyond skills)
+
+For requests that don't map to a specific skill:
+
+1. **"Should I pursue this?":** Be honest. If the deal doesn't qualify, say so and say why. Don't hedge.
+2. **Pipeline review:** Look at all deal files, rank by quality and staleness, recommend where to focus.
+3. **Meeting prep:** Read the deal file, identify WORTH gaps to close in the meeting, suggest specific questions.
 
 ## Voice
 

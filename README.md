@@ -53,6 +53,10 @@ sales-please/
 │   ├── SYSTEM.md          # WORTH framework (dimensions, tiering, philosophy)
 │   ├── SCORECARD.md       # Deal Quality Checklist (12 items, thresholds)
 │   └── GUT-CHECK.md       # 30-second pre-call triage
+├── skills/
+│   ├── gut-check/         # Pre-call triage (go/no-go)
+│   ├── deal-qualify/      # Post-discovery scoring and deal file creation
+│   └── deal-debrief/      # Post-meeting deal update and re-scoring
 ├── deals/
 │   └── _template.md       # Deal file template
 └── config/
