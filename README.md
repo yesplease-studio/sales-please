@@ -61,8 +61,13 @@ sales-please/
 │   └── meeting-prep/      # Pre-meeting brief with WORTH gap analysis
 ├── deals/
 │   └── _template.md       # Deal file template
-└── config/
-    └── _template.md       # Company profile template (setup creates profile.md)
+├── config/
+│   └── _template.md       # Company profile template (setup creates profile.md)
+└── integrations/
+    ├── GUIDE.md            # Integration philosophy and options
+    ├── hubspot.md          # HubSpot property mapping + MCP setup
+    ├── attio.md            # Attio property mapping + MCP setup
+    └── generic-crm.md     # Principles for mapping WORTH to any CRM
 ```
 
 ## Three speeds
