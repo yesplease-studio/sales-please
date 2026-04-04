@@ -80,12 +80,15 @@ sales-please/
 
 ## The "-please" family
 
-sales-please is part of a family of open-source, AI-native frameworks by [Yes Please Studio](https://yesplease.studio):
+Open-source, AI-native tools for strategic and product work by [Yes Please Studio](https://yesplease.studio):
 
-- **[prd-please](https://github.com/yesplease-studio/prd-please)** — Strategic product requirements
-- **sales-please** — Deal qualification and pipeline management (this repo)
+| Tool | What it does |
+|------|-------------|
+| **[strategy-please](https://github.com/yesplease-studio/strategy-please)** | Maps challenges to the right workshop using a strategic maturity framework |
+| **[prd-please](https://github.com/yesplease-studio/prd-please)** | Structured methodology for AI-native product requirements |
+| **sales-please** (this repo) | Lightweight deal qualification framework built on WORTH |
 
-Each "-please" repo follows the same pattern: fork it, open Claude Code, and start working. The AI isn't a feature. It's the interface.
+Each tool works standalone. Fork it, open Claude Code, start working.
 
 ## License
 
