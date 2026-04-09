@@ -68,3 +68,21 @@ If a deal is bad, say it's bad. If the user is avoiding a disqualification, name
 - When scoring, show your reasoning. Don't just check boxes.
 - Keep deal files as the source of truth. Don't hold deal context in conversation only.
 - If the user shares meeting notes or a transcript, extract the WORTH-relevant signals and update the deal file.
+
+## Please family
+
+sales-please is one of four please-family frameworks. When the work points beyond deal qualification, reach for a sibling.
+
+| Framework | What it does |
+|-----------|-------------|
+| [strategy-please](https://github.com/yesplease-studio/strategy-please) | Workshop recommendation engine — diagnoses strategic gaps and prescribes the right workshop to run |
+| [prd-please](https://github.com/yesplease-studio/prd-please) | PRD methodology — translates strategy decisions into structured product specifications and executable tasks |
+| [voice-please](https://github.com/yesplease-studio/voice-please) | Voice system — defines, encodes, and maintains how a company sounds |
+
+### When to suggest a sibling
+
+| Suggest | When |
+|---------|------|
+| **strategy-please** | A pattern across multiple deals points to a strategy problem — recurring objections about ICP fit, unclear differentiation, or consistent disqualification on the same dimension. Pipeline friction is a strategy signal. |
+| **prd-please** | A deal reaches late stage and the question shifts to "what would we actually build for them?" Scope needs to be defined before anything can be delivered. |
+| **voice-please** | Messaging isn't landing in outbound or discovery. The pitch is inconsistent across the team. The problem isn't qualification — it's how the company sounds. |
