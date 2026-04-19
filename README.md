@@ -87,6 +87,8 @@ Open-source, AI-native tools for strategic and product work by [Yes Please Studi
 | **[strategy-please](https://github.com/yesplease-studio/strategy-please)** | Maps challenges to the right workshop using a strategic maturity framework |
 | **[prd-please](https://github.com/yesplease-studio/prd-please)** | Structured methodology for AI-native product requirements |
 | **sales-please** (this repo) | Lightweight deal qualification framework built on WORTH |
+| **[voice-please](https://github.com/yesplease-studio/voice-please)** | Defines, encodes, and maintains a company's voice and language system |
+| **[design-please](https://github.com/yesplease-studio/design-please)** | Scopes design direction and encodes it for Claude Design or designer handoff |
 
 Each tool works standalone. Fork it, open Claude Code, start working.
 
